@@ -8,6 +8,8 @@ Generate high quality blogs with the power of Langchain and OpenAI.. all you hav
 <div>
 <strong>Find history at your fingertips !! 🫰</strong>
 <br>
+<strong>Track token usage 📊</strong>
+<br>
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/83173038/235446576-8bc293ad-9d06-46c2-bd68-3c8935048461.png">
 </div>
 The app has been hosted on streamlit
