@@ -1,9 +1,11 @@
 Steps to run this project:
-1. Open up a terminal 
-2. ```$ virtualenv .venv```
-3. ```$ .venv/Scripts/activate```
-4. ```$ pip install -r requirements.txt```
-5. ```$ streamlit run app.py```\
+1. Open up a terminal
+2. clone this repo
+3. ```$ cd Langchain-BlogGPT/```
+4. ```$ virtualenv .venv```
+5. ```$ .venv/Scripts/activate```
+6. ```$ pip install -r requirements.txt```
+7. ```$ streamlit run app.py```\
 Done ✅
 <br>
 You need an OpenAI API key to run this.. 
